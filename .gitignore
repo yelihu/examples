@@ -34,9 +34,3 @@ target/
 
 # node_modules
 **/node_modules
-
-### AI Assistant Files ###
-CLAUDE.md
-AGENTS.md
-.cursor/
-.claude/
